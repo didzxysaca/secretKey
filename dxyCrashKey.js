@@ -7,7 +7,7 @@
     "description": "PREMIUM KEY FOR DXY.",
     "lastUpdated": "2025-02-26",
     "author": "Dxy Corporation </>",
-    "status": "Active",
+    "status": "nonActive",
     "license": "MIT",
     "version": "4.2.0"
 }
