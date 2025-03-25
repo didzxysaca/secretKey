@@ -3,7 +3,7 @@
     "acces": true,
     "username": "dxy-xcrash",
     "password": "destroyer",
-    "secretCode": "Dxy-Xcrash",
+    "secretCode": "Dxy-Xsaturn",
     "description": "PREMIUM KEY FOR DXY.",
     "lastUpdated": "2025-02-26",
     "author": "Dxy Corporation </>",
